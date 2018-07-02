@@ -8,9 +8,9 @@
         
     } 
 
-    // $query = "INSERT INTO `users` (`email`, `password`) VALUES('tommy@gmail.com', 'ilovemydad')";
+    // $query = "INSERT INTO `users` (`email`, `password`) VALUES('yaroslavv@gmail.com', 'ilovemydad')";
 
-    $query = "UPDATE `users` SET password = 'uedjUFH7^%' WHERE email = 'robpercival80@gmail.com' LIMIT 1";
+    $query = "UPDATE `users` SET password = 'uedjUFH7^%' WHERE email = 'yaroslavv@gmail.com' LIMIT 1";
 
     mysqli_query($link, $query);
 
